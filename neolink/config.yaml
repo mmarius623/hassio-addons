@@ -1,4 +1,4 @@
-name: "Neolink"
+name: "Neolink Master"
 description: "Will run Neolink directly as Add-on in HAOS"
 version: "0.0.6"
 slug: "neolink"
