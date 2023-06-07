@@ -1,5 +1,4 @@
-FROM quantumentangledandy/neolink:latest
-
+FROM quantumentangledandy/neolink:master
 RUN apt-get update && \
     apt-get install -y \
         jq && \
